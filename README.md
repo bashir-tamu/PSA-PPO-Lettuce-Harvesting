@@ -28,7 +28,7 @@ If you use or refer to this work, please cite the preprint:
   eprint        = {2610.22337},
   archivePrefix = {arXiv},
   primaryClass  = {cs.RO},
-  doi           ={10.48550/arXiv.2610.22337},
+  doi           = {10.48550/arXiv.2610.22337},
   url           = {https://arxiv.org/abs/2610.22337}
 }
 ```
